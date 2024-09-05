@@ -5,7 +5,7 @@ import PrimeVue from 'primevue/config';
 import 'primeflex/primeflex.scss';
 import 'primeicons/primeicons.css';
 
-0import i18n from "./i18n.js";
+import i18n from "./i18n.js";
 import Aura from '@primevue/themes/aura';
 import Toolbar from "primevue/toolbar";
 import Menubar from "primevue/menubar";
