@@ -1,7 +1,6 @@
 <script>
-import {$t} from "@primeuix/styled";
+import {Article} from "../model/article.entity.js";
 
-let Article;
 export default {
   name: "article-item",
   methods: {$t},
